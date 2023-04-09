@@ -72,7 +72,7 @@ public class ObstacleCollision : MonoBehaviour
     public void LoadNextScene() {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         Debug.Log("Current Scene Index: " + currentSceneIndex);
-        if(currentSceneIndex+1==2)
+        if(currentSceneIndex+1==4)
         {
             SceneManager.LoadScene(0);
         }

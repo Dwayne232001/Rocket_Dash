@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DebugSettings : MonoBehaviour
 {
@@ -46,6 +47,13 @@ public class DebugSettings : MonoBehaviour
                   {
                         obstacleCollision.enabled = true;
                         Debug.Log("Obstacle Collision Enabled");
+                  }
+            }
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                  Debug.Log("Qutting Game...");
+                  {
+                        SceneManager.LoadScene("Navigation Menu");
                   }
             }
       }
