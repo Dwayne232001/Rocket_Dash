@@ -99,7 +99,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FadeDistance: 0.5
+    - _FadeDistance: -4.4
     - _FoamAmount: 0.3
     - _FoamDepth: 0.5
     - _FoamDirection: 0.216
@@ -113,7 +113,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _LightContribution: 0
+    - _LightContribution: 0.578
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Opaque: 0

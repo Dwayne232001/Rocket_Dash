@@ -363,7 +363,7 @@ RectTransform:
   m_Father: {fileID: 1289522664}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.000007271143, y: 0}
+  m_AnchorMin: {x: 0.0000072180696, y: 0}
   m_AnchorMax: {x: 0.77609426, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
@@ -4024,7 +4024,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 0}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1998701098}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: Level4
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &386160026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4037,12 +4049,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c02d941c4fd4c54a9a3de039909e362, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundImage: {fileID: 21300000, guid: 1592a8cc3cddeb840b16e1071e872e48, type: 3}
+  backgroundImage: {fileID: 21300000, guid: 2c184436058548f46a7ff6450aa7eaa8, type: 3}
   buttonTitle: LEVEL 4
   buttonDescription: Can you handle the heat?
   useCustomResources: 0
   enableStatus: 1
-  statusItem: 1
+  statusItem: 2
 --- !u!1 &389930819
 GameObject:
   m_ObjectHideFlags: 0
@@ -8031,7 +8043,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c02d941c4fd4c54a9a3de039909e362, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundImage: {fileID: 21300000, guid: 2c184436058548f46a7ff6450aa7eaa8, type: 3}
+  backgroundImage: {fileID: 21300000, guid: 5cf47ed9c6ac4f743b86b1bb723574a7, type: 3}
   buttonTitle: LEVEL 3
   buttonDescription: Are you as cool as you think?
   useCustomResources: 0
@@ -16608,7 +16620,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 26221100}
   m_HandleRect: {fileID: 26221098}
   m_Direction: 0
-  m_Value: 0.00003247307
+  m_Value: 0.000032236043
   m_Size: 0.776087
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -18961,7 +18973,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c02d941c4fd4c54a9a3de039909e362, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundImage: {fileID: 21300000, guid: 443c8cac3089f724691f32276e4fea7e, type: 3}
+  backgroundImage: {fileID: 21300000, guid: b5d32efc13a6b8e45a053f1890c9d596, type: 3}
   buttonTitle: LEVEL 1
   buttonDescription: Try to get a grip!
   useCustomResources: 0
@@ -19508,7 +19520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c02d941c4fd4c54a9a3de039909e362, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundImage: {fileID: 21300000, guid: 5cf47ed9c6ac4f743b86b1bb723574a7, type: 3}
+  backgroundImage: {fileID: 21300000, guid: 443c8cac3089f724691f32276e4fea7e, type: 3}
   buttonTitle: LEVEL 2
   buttonDescription: Hope you are not afraid of heights!
   useCustomResources: 0
