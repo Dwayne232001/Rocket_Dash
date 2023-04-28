@@ -41,7 +41,7 @@ Note: You will need to purchase some packages on the Unity Asset Store to obtain
 
 **Gameplay:**
 
-![This is an image](/Assets/GameImagesLevel1.png)
+![This is an image](/Assets/GameImages/Level1.png)
 
 ![This is an image](/Assets/GameImages/Level2.png)
 
