@@ -17,8 +17,6 @@ Add the extracted file to the Unity 3D Projects folder
 **Final Step:**
 Open the folder in the Unity Editor and import all the required packages.
 
-![This is an image](/Assets/GameImages/EditorScreen.png)
-
 Note: You will need to purchase some packages on the Unity Asset Store to obtain the license to utilize some of the assets while editing the game.
 
 ## Features
