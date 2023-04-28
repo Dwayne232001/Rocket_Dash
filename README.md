@@ -35,17 +35,11 @@ Note: You will need to purchase some packages on the Unity Asset Store to obtain
 
 ![This is an image](/Assets/GameImages/SettingsMenu.png)
 
-**Pause Menu:**
+**Exit Menu:**
 
-![This is an image](/Assets/GameImages/PauseMenu.png)
-
-**World:**
-
-![This is an image](/Assets/GameImages/OpenWorld.png)
+![This is an image](/Assets/GameImages/ExitMenu.png)
 
 **Gameplay:**
-
-![This is an image](/Assets/GameImages/StartGame.png)
 
 ![This is an image](/Assets/GameImagesLevel1.png)
 
